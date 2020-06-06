@@ -1,10 +1,9 @@
-Todolist
-download it and run
-Prerequsite
+
+Prerequsite (
  ganache
  metamask
  nodejs
- 
+ )
  
 
 
