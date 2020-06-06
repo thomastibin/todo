@@ -1,11 +1,15 @@
 
 Prerequsite (
+
  ganache
- metamask
- nodejs
- )
+
+metamask
+
+nodejs
+
+)
  
 
 
-Hyperledger Fabric project deplyment
+Hyperledger Fabric project deployment
 https://youtu.be/sOPtGUL3S7M
